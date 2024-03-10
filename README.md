@@ -1,6 +1,6 @@
-#                                                                                         CS114.O21
+# CS114.O21
 
-                                                                                22521627-Hồ Thị Thanh Tuyền
+- 22521627 - Hồ Thị Thanh Tuyền
 
 # GIỚI THIỆU MÔN HỌC
 
